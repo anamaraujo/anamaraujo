@@ -3,6 +3,7 @@
 💻 
 
 ##### Ana Maria | github.com/anamaraujo
+✉️ anamaraujo@tjrj.jus.br
 
 <!--
 **anamaraujo/anamaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
