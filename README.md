@@ -1,4 +1,4 @@
-#### Projetos do Departamento de Tecnologia de Informação - DETEC
+#### Projetos do Departamento de Tecnologia de Informação - DETEC/DISIC
 
 💻 
 
