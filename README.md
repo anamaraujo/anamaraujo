@@ -3,7 +3,7 @@
 💻 
 
 #### Ana Maria | Sistemas Internos <br>
-🌐 [github.com/anamaraujo](https://github.com/anamaraujo) <br>
+💻 [github.com/anamaraujo](https://github.com/anamaraujo) <br>
 ✉️ anamaraujo@tjrj.jus.br
 
 <!--
