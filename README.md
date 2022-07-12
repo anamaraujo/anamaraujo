@@ -4,7 +4,7 @@
 💻 [github.com/anamaraujo](https://github.com/anamaraujo) <br>
 ✉️ anamaraujo@tjrj.jus.br
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamaraujo&langs_count=8)](https://github.com/anamaraujo/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamaraujo&hide=javascript,css,scss,html&theme=tokyonight)
 
 <!--
 **anamaraujo/anamaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
