@@ -4,7 +4,6 @@
 💻 [github.com/anamaraujo](https://github.com/anamaraujo) <br>
 ✉️ anamaraujo@tjrj.jus.br
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamaraujo&layout=compact)](https://github.com/anamaraujo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamaraujo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
