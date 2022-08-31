@@ -2,7 +2,6 @@
 
 #### Ana Maria | Sistemas Internos <br>
 💻 [github.com/anamaraujo](https://github.com/anamaraujo) <br>
-✉️ anamaraujo@tjrj.jus.br
 
 <!--
 **anamaraujo/anamaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
