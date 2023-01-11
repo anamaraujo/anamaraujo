@@ -1,4 +1,4 @@
-#### Projetos do Departamento de Tecnologia de Informação - DETEC/DISIC
+#### Projetos do Departamento de Tecnologia de Informação - DETEC/DISIC (Divisão de Sistemas Corporativos)
 
 #### Ana Maria | Sistemas Internos <br>
 💻 [github.com/anamaraujo](https://github.com/anamaraujo) <br>
