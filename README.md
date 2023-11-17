@@ -1,4 +1,4 @@
-#### Projetos do Departamento de Tecnologia de Informação - DETEC/DISIC 
+#### Projetos do Departamento de Tecnologia de Informação - DETEC 
 #### Ana Maria | Sistemas DETEC <br>
 💻 [github.com/anamaraujo](https://github.com/anamaraujo) <br>
 
