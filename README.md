@@ -1,6 +1,6 @@
 #### Projetos do Departamento de Tecnologia de Informação - DETEC 
 #### Ana Maria | Sistemas DETEC <br>
-##### e-mail: anamaraujo@tjrj.jus.br
+##### E-mail: anamaraujo@tjrj.jus.br
 💻 [github.com/anamaraujo](https://github.com/anamaraujo) <br>
 
 <!--
