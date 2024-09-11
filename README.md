@@ -1,6 +1,5 @@
 #### Projetos do Departamento de Tecnologia de Informação - DETEC 
 #### EMERJ - GESTÃO DOS SISTEMAS INTERNOS | Sistemas DETEC <br>
-E-mail: anamaraujo@tjrj.jus.br
 
 💻 [github.com/anamaraujo](https://github.com/anamaraujo) <br>
 
